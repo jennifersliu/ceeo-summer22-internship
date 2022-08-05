@@ -48,3 +48,10 @@ Finally, using all the components and functions, create a plot of your desired i
 *Example for Mechanism 144, investigating linear displacement of ends:*
 
 ![image](https://user-images.githubusercontent.com/76875975/183211635-ee9347db-c6a1-4ca9-82ce-bd54691cfdb8.png)
+
+---
+
+View a demo of this project here:
+[Part 1: Introduction](https://www.loom.com/share/6699f8e4342243dcaeb663c1d451dc0e)
+[Part 2: Setup](https://www.loom.com/share/5326d26ee8c3481c991f791c242436d1)
+[part 3: Putting It All Together](https://www.loom.com/share/f6c47c92269841f281b7d6c97346b6d6)
