@@ -44,3 +44,7 @@ Follow instructions to make sure you can:
 
 #### Putting it all together
 Finally, using all the components and functions, create a plot of your desired input and output parameters!
+
+*Example for Mechanism 144, investigating linear displacement of ends:*
+
+![image](https://user-images.githubusercontent.com/76875975/183211635-ee9347db-c6a1-4ca9-82ce-bd54691cfdb8.png)
