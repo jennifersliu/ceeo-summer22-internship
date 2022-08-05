@@ -31,7 +31,7 @@ Materials required: [Onshape](https://cad.onshape.com/), [Google Colab](https://
 The Python notebook contains detailed descriptions and instructions of the project. The notebook was designed in a way that allows both students with no programming experience to interact with the engineering concepts through forms and students who would like to further explore the REST API calls in Onshape. Simply locate and open the document named `mechanical-movement.ipynb` in this repository. 
 
 #### Set-up
-1. Make a copy of [this Colab document](https://colab.research.google.com/github/jennifersliu/ceeo-summer22-internship/blob/main/mechanical_movement.ipynb).
+1. Make a copy of [this Colab document](https://colab.research.google.com/drive/18T_F8m774aqGe8MKpHaZ2pp1MzjMrRfA?usp=sharing).
 2. Follow the instructions of [section 2 of this guide](https://github.com/PTC-Education/Onshape-Integration-Guides/blob/main/API_Intro.md#2-generating-your-onshape-api-keys) to create your API keys. Such that you can configure your client to access your Onshape document.
 3. Import and Setup Onshape Client on the Colab notebook on the first block. Proceed when you see `Onshape client configured - ready to go!`
 
