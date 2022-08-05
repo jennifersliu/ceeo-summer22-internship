@@ -32,7 +32,7 @@ The Python notebook contains detailed descriptions and instructions of the proje
 
 #### Set-up
 1. Make a copy of [this Colab document](https://colab.research.google.com/drive/18T_F8m774aqGe8MKpHaZ2pp1MzjMrRfA?usp=sharing).
-2. Follow the instructions of (section 2 of this guide)[https://github.com/PTC-Education/Onshape-Integration-Guides/blob/main/API_Intro.md#2-generating-your-onshape-api-keys] to create your API keys. Such that you can configure your client to access your Onshape document.
+2. Follow the instructions of [section 2 of this guide](https://github.com/PTC-Education/Onshape-Integration-Guides/blob/main/API_Intro.md#2-generating-your-onshape-api-keys) to create your API keys. Such that you can configure your client to access your Onshape document.
 3. Import and Setup Onshape Client on the Colab notebook on the first block. Proceed when you see `Onshape client configured - ready to go!`
 
 #### Testing out components
