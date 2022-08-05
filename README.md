@@ -52,4 +52,4 @@ Finally, using all the components and functions, create a plot of your desired i
 ---
 
 View a demo of this project here:
-[Part 1: Introduction](https://www.loom.com/share/6699f8e4342243dcaeb663c1d451dc0e), [Part 2: Setup](https://www.loom.com/share/5326d26ee8c3481c991f791c242436d1), [part 3: Putting It All Together](https://www.loom.com/share/f6c47c92269841f281b7d6c97346b6d6)
+[Part 1: Introduction](https://www.loom.com/share/6699f8e4342243dcaeb663c1d451dc0e), [Part 2: Setup](https://www.loom.com/share/5326d26ee8c3481c991f791c242436d1), [Part 3: Putting It All Together](https://www.loom.com/share/f6c47c92269841f281b7d6c97346b6d6)
